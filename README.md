@@ -8,10 +8,7 @@ top 명령어는 table of processes의 약자로 실시간으로 cpu와 메모�
 
 top 사용법. 
 
-'''c
-top
-
-'''
+![제목 없음](https://user-images.githubusercontent.com/106595997/171172627-b4e46c91-6e9d-4f4f-8ecb-d8110c69c459.png)
 
 ![제목 없음](https://user-images.githubusercontent.com/106595997/171171303-45788c47-bf21-4b13-881d-822d32ec22f6.png)
 
