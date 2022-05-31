@@ -5,6 +5,7 @@
 1. top 명령어.
 
 top 명령어는 table of processes의 약자로 실시간으로 cpu와 메모리 이용에 관한 정보를 표시함
+
 top 사용법. 
 
 ![제목 없음](https://user-images.githubusercontent.com/106595997/171172627-b4e46c91-6e9d-4f4f-8ecb-d8110c69c459.png)
@@ -15,6 +16,7 @@ top 사용법.
 2. ps 명령어.
 
 ps 명령어는 Process Status의 약자로 현재 실행중인 프로세스 목록을 보여줌.
+
 ps 사용법.
 
 ![제목 없음](https://user-images.githubusercontent.com/106595997/171174081-d8ad6051-c8d5-4014-9283-0c2a37dbbdc4.png)
