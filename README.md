@@ -22,6 +22,7 @@ ps 사용법.
 ![제목 없음](https://user-images.githubusercontent.com/106595997/171174081-d8ad6051-c8d5-4014-9283-0c2a37dbbdc4.png)
 
 ps 명령어를 옵션없이 사용하였다.
+
 PID는 프로세스 ID, TTY는 프로세스 터미널 TIME은 해당 프로세스가 사용한 CPU 시간의 양 CMD는 실행중인 명령을 의미한다.
 
 ![제목 없음](https://user-images.githubusercontent.com/106595997/171174505-5fb0958f-ff32-46c5-9fe7-ee34cb296fe2.png)
@@ -32,11 +33,24 @@ ps -f(풀 포맷으로 출력), ps -l(긴 포맷으로 출력), ps -e(모든 프
 
 3. jobs 명령어.
 
-이런게 있다.
+jobs 명령어는 작업의 상태를 표시함.
+
+jobs 사용법.
+
+![제목 없음](https://user-images.githubusercontent.com/106595997/171177902-2673967b-92ae-49ae-958f-2fc9ee52c9c0.png)
+
+jobs -l(프로세스 그룹 ID를 state 필드 앞에 출력), jobs -n(프로세스 그룹 중에 대표 프로세스 ID를 출력), jobs -p(각 프로레스 ID에 대해 한 행씩 출력)등의 옵션이 있다.
 
 4. kill 명령어.
 
-이런게 있다.
+kill 명령어는 프로세스에 시그널을 보낸다.
+
+kill 사용법.
+
+ps명령어를 사용 한 뒤 -9 옵션으로 특정 프로세스를 종료시킨다.
+
+![제목 없음](https://user-images.githubusercontent.com/106595997/171179103-196dcaa4-363b-4729-b087-85e274b17bd6.png)
+
 
 ## Vim Editer
 
